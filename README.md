@@ -1,43 +1,3 @@
-None selected 
-
-Skip to content
-Using Gmail with screen readers
-bear 
-Conversations
-Py instagram project code and README
-Inbox
-
-Bear Cahill <bear@bearmo.com>
-Attachments
-Jan 26, 2026, 7:30 PM
-to me
-
-
-
-Thanks,
-Bear
- 3 Attachments
-  •  Scanned by Gmail
-
-Mitch Cahill <recedingimp@gmail.com>
-Attachments
-Jan 28, 2026, 2:02 AM
-to Bear
-
-here are some things I made after doing the MIT probability math course. Chat said to code one thing related to each lecture after the lecture prob set. Onya!
-
-On Mon, Jan 26, 2026 at 7:30 PM Bear Cahill <bear@bearmo.com> wrote:
-
-
-Thanks,
-Bear
- 2 Attachments
-  •  Scanned by Gmail
-# Instagram Follow-Back Checker
-
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![CS50P](https://img.shields.io/badge/Harvard-CS50P-crimson)
-![Platform](https://img.shields.io/badge/Platform-macOS%20%7C%20Windows%20%7C%20Linux-lightgrey)
 
 A Python script that identifies Instagram accounts you follow **that do not follow you back**.  
 It outputs both a **summary and a detailed CSV file** of the results.
@@ -200,7 +160,4 @@ This project is provided for educational purposes as part of CS50P.
 
 ---
 
-Enjoy responsibly 😄  
-Vanity is optional.
-README.md
-Displaying README.md.
+  
